@@ -2,7 +2,7 @@
 Introduction to github
 I am just checking out the material in github.
 <body>
-  <h1>I have no idea if this will work.</h1>
+  <h1>Just a little bit about myself</h1>
   <p>
     I have decided that I will add just a few lines on here by just rambling a little bit.
     The following languages though I have learned and want to brush back up on them to get
